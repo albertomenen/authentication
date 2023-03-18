@@ -3,7 +3,18 @@ Authentication check using node.js
 
 Este es un proyecto de programación que hice en node.js. 
 
-Estos son los proyectos en los que me gustaría enfocarme debido a la versatilidad de Back-end. Por favor si tienes alguna sugerencia sobre el código me encantaría que me dejases un comentario o algún mensaje sobre ello. 
+Este proyecto es un proyecto de autentificacion, para el mismo se utilizaron herramientas como:
+
+- Node.js 
+- Bootstrap. 
+- bcrypt.
+- Passport 
+
+Como se puede ver se puede gestionar el tema de autentificación con:
+
+- Google Strategy --> Google
+- Facebook Strategy --> Facebook
+
 
 
 
